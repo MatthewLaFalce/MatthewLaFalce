@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 
 
 <p align="center">
+  <a href="https://dev.to/matthewlafalce">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Matthew LaFalce's DEV Profile" height="28px" width="28px">
+  </a>
+  &emsp;
   <a href="https://toolkit.mattlafalce.me">
     <img src="https://img.icons8.com/material/256/000000/toolbox--v1.png" width="28px"/>
   </a>
@@ -30,7 +34,7 @@ Here are some ideas to get you started:
   </a>
   &emsp;
   <a href="https://linkedin.com/in/matthew-lafalce">
-    <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
+    <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="28px"/>
   </a>
   <br><br>
   <strong>Check out my work below!</strong>
