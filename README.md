@@ -46,12 +46,47 @@ Here are some ideas to get you started:
 
 
 <h2 align="center"> 🔧 Technologies & Tools</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=000000">
-  <img src="https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=000000">
-  <img src="https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=000000">
-  <img src="https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=000000">
-  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=000000">
-  <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=000000">
-  <img src="https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=000000">
-</p>
+<center>
+  <table>
+    <tr>
+      <td>Language</td>
+      <td>
+        <img src="https://img.shields.io/badge/Ruby-informational?style=flat&logo=ruby&logoColor=white&color=000000">
+        <img src="https://img.shields.io/badge/Shell-informational?style=flat&logo=gnu-bash&logoColor=white&color=000000">
+        <img src="https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=000000">
+      </td>
+    </tr>
+    <tr>
+      <td>Frameworks</td>
+      <td>
+        <img src="https://img.shields.io/badge/AndroidSDK-informational?style=flat&logo=android&logoColor=white&color=000000">
+        <img src="https://img.shields.io/badge/RubyOnRails-informational?style=flat&logo=ruby-on-rails&logoColor=white&color=000000">
+        <img src="https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=000000">
+      </td>
+    </tr>
+    <tr>
+      <td>DBMS</td>
+      <td>
+        <img src="https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=000000">
+      </td>
+    </tr>
+    <tr>
+      <td>Infrastructure</td>
+      <td>
+        <img src="https://img.shields.io/badge/Capistrano-informational?style=flat&logo=chef&logoColor=white&color=000000">
+        <img src="https://img.shields.io/badge/Chef-informational?style=flat&logo=c&logoColor=white&color=000000">
+        <img src="https://img.shields.io/badge/GithubActions-informational?style=flat&logo=github-actions&logoColor=white&color=000000">
+        <img src="https://img.shields.io/badge/Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=000000">
+      </td>
+    </tr>
+    <tr>
+      <td>Tools</td>
+      <td>
+        <img src="https://img.shields.io/badge/AndroidStudio-informational?style=flat&logo=android-studio&logoColor=white&color=000000">
+        <img src="https://img.shields.io/badge/Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=000000">
+        <img src="https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=white&color=000000">
+        <img src="https://img.shields.io/badge/Vim-informational?style=flat&logo=vim&logoColor=white&color=000000">
+      </td>
+    </tr>
+  </table>
+</center>
