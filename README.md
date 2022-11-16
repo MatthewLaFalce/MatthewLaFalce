@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![@mattlafalce's Holopin board](https://holopin.io/api/user/board?user=mattlafalce)](https://holopin.io/@mattlafalce)
-<p align="center">
-  <a href="https://github.com/MatthewLaFalce" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=MatthewLaFalce&count_private=true&show_icons=true&theme=graywhite&hide=stars,contribs" alt="Matthew's Stats" >
-  </a>
-</p>
-
 
 <p align="center">
   <a href="https://dev.to/matthewlafalce">
@@ -39,10 +33,6 @@ Here are some ideas to get you started:
   </a>
   <br><br>
   <strong>Check out my work below!</strong>
-  <br><br>
-  <img src="https://badges.pufler.dev/repos/MatthewLaFalce?style=flat-square&color=black&logo=github">
-  <img src="https://badges.pufler.dev/years/MatthewLaFalce?style=flat-square&color=black&logo=github">
-  <img src="https://badges.pufler.dev/gists/MatthewLaFalce?style=flat-square&color=black&logo=github">
 </p>
 
 
@@ -53,7 +43,7 @@ Here are some ideas to get you started:
       <td>Language</td>
       <td>
         <img src="https://img.shields.io/badge/Ruby-informational?style=flat&logo=ruby&logoColor=white&color=000000">
-        <img src="https://img.shields.io/badge/Shell-informational?style=flat&logo=gnu-bash&logoColor=white&color=000000">
+        <img src="https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=000000">
         <img src="https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=000000">
       </td>
     </tr>
