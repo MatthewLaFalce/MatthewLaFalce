@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![@mattlafalce's Holopin board](https://holopin.io/api/user/board?user=mattlafalce)](https://holopin.io/@mattlafalce)
-
 <p align="center">
   <a href="https://dev.to/matthewlafalce">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Matthew LaFalce's DEV Profile" height="28px" width="28px">
